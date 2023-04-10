@@ -1,13 +1,12 @@
 # Food Repo
 
 # Recipes
-- [Established](recipie_groups.md)
-- [Practicing](recipie_groups.md)
-- [New](recipie_groups.md)
+- [dinners.md](recipies%2Fdinners.md)
+- [lunches.md](recipies%2Flunches.md)
 
 
 # Routines and habbits
-- [routine_trials.md](routine_trials.md)
+- [routine_trials.md](routines/routine_trials.md)
 
 ## Swaps
 

@@ -17,4 +17,5 @@
 
 
 # Sources of recipies
-- links to websites here
+- https://www.nhs.uk/healthier-families/recipes/dinner/
+- https://www.nhs.uk/healthier-families/recipes/dinner/#weekly-plan
