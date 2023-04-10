@@ -11,3 +11,8 @@ plugins:
 
 title: Food
 description: Food recipes and automation
+
+header_pages:
+  - README.md
+  - recipie_groups.md
+  - routine_trials.md
