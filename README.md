@@ -3,6 +3,7 @@
 # Recipes
 - [dinners.md](recipes/dinners.md)
 - [lunches.md](recipes/lunches.md)
+- [cocktails.md](recipes/cocktails.md)
 
 
 # Routines and habits
