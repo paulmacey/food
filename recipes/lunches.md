@@ -6,7 +6,7 @@
 ## Practising
 - tuna salad
 - [BanhMi](recipes/banh_mi.md)
-- [Baked tomatoes on toast](https://www.nhs.uk/healthier-families/recipes/lunch/)
+- [Baked tomatoes on toast](https://www.nhs.uk/healthier-families/recipes/baked-tomatoes-on-toast/)
 - [Veg wedge and salad](https://www.nhs.uk/healthier-families/recipes/pasta-vegetable-cheese-wedges/)
 
 ## New

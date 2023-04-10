@@ -1,2 +1,2 @@
-1kg onions
-1kg peppers
+* 1kg onions
+* 1kg peppers
