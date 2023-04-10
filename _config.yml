@@ -1,0 +1,13 @@
+# list of github supported themes https://pages.github.com/themes/
+# slate https://github.com/pages-themes/slate
+# minimal https://github.com/pages-themes/minimal
+# leapday https://github.com/pages-themes/leap-day
+# dinky  https://github.com/pages-themes/dinky
+# cayman https://github.com/pages-themes/cayman
+
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: [Food]
+description: [Food recipes and automation]
