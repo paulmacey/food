@@ -1,7 +1,7 @@
 # Routine Trials
 
 ## Established
-- Breakfast - museli
+- Breakfast - muesli
 
 ## Practicing
 - Lunch - Salad
@@ -14,11 +14,11 @@
   - protein
   - zero scales
   - veg
-- 5 a day fruit and veg - mosty for the interesting items here
- - banannas, berries, organse apples etc
+- 5 a day fruit and veg - mostly for the interesting items here
+ - bananas, berries, organise apples etc
  - mushrooms
  - tomatoes and chopped tomatoes
  - beans
  - chickpeas
  - sweat potatoes
- - carrots, parsnips, sweeded, brocoli, spinic
+ - carrots, parsnips, swede, brocoli, spinach

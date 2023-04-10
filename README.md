@@ -1,17 +1,17 @@
 # Food Repo
 
 # Recipes
-- [dinners.md](recipies%2Fdinners.md)
-- [lunches.md](recipies%2Flunches.md)
+- [dinners.md](recipes/dinners.md)
+- [lunches.md](recipes/lunches.md)
 
 
-# Routines and habbits
+# Routines and habits
 - [routine_trials.md](routines/routine_trials.md)
 
 ## Swaps
 
 | From              | To                   |
-| ----------------- | -------------------- |
+|-------------------|----------------------|
 | Beer              | Non alcoholic beer   |
 | Potato            | Sweet pot            |
 | Sausages, burgers | Fish                 |

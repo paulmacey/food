@@ -1,8 +1,8 @@
-# Recipie Groups
+# Recipe Groups
 ## Established
 - Batch cook
   - Veg Chilli
-- Nocook
+- No-cook
   - a
 
 ## Practicing
@@ -16,6 +16,6 @@
 - c
 
 
-# Sources of recipies
+# Sources of recipes
 - https://www.nhs.uk/healthier-families/recipes/dinner/
 - https://www.nhs.uk/healthier-families/recipes/dinner/#weekly-plan
