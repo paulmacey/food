@@ -1,15 +1,27 @@
 # Food Repo
 
+# Recipes
+- [Established](recipie_groups.md)
+- [Practicing](recipie_groups.md)
+- [New](recipie_groups.md)
 
-## Recipies
-- Familar
-- Practicing
-- New
-- No Cook
-- Batch Cook
 
-# Swaps table
+# Routines and habbits
+- [routine_trials.md](routine_trials.md)
 
-## Shopping
+## Swaps
+
+| From              | To                   |
+| ----------------- | -------------------- |
+| Beer              | Non alcoholic beer   |
+| Potato            | Sweet pot            |
+| Sausages, burgers | Fish                 |
+| Pastries          | Fruit teacakes       |
+| Fry               | Grill, bake or poach |
+| Coke cola         | Fizzy water          |
+
+
+# Shopping
 - Audit tool
-- Weeks plan from 
+- Weeks meal plan
+
