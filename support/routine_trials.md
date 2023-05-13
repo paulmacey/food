@@ -5,6 +5,7 @@
 
 ## Practicing
 - Lunch - Salad
+- Dinner - Focus on always making curries for a moth.
 
 ## New
 - 2 plates for dinner 1) veg 2) carbs+others
