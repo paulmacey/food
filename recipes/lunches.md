@@ -2,6 +2,12 @@
 ## Established
 - Scrambled eggs and bacon on toast
 - Paste on toast
+- ham + cheese sandwich
+- Chickpea curry + jacket potatoes
+- Chickpea salad
+- Salmon
+
+
 
 ## Practising
 - tuna salad

@@ -1,23 +1,50 @@
 # Recipe Groups
-## Established
-- Batch cook
-  - Veg Chilli
-- No-cook
-  - a
-- Fast cook
-  
+## No-cook
 
-## Practicing
-- Curry
+- Salad +
+- dressing ( olive oli, balsamic / thousand island /  )
+- Contents ( tuna / prawns / choriz / ndjua / sausage / chickpea / bacon / chicken )
+
+## Fast cook
+
+- **Frozen Veg** +
+    - Microwave froze veg mix + 
+    - Butter + 
+    - Something
+
+- **Curry**
     - Curry paste + 
-    - Fluid(tomatoes, coconut milk) + 
-    - Contents (chickpea, prawns, Quorn mice, mushrooms, spinich)
-- Pasta + 
-  - pesto + 
-  - contents(bacon, chickpea, tuna, prawns)
-- c
+    - Fluid ( Tomatoes/ coconut milk ) + 
+    - Contents ( chicken / chickpea / prawns / Quorn mice / mushrooms / spinach )
+    - Rice 
+- **Fish** + potato + veg
+- **Kebab**
+  - Grill meat
+  - Salad +
+  - Mint Yougurt +
+  - Rice +
 
-## New
+- **Pasta**
+  - Pasta +
+  - pesto + 
+  - contents: tuna / prawns / choriz / ndjua / sausage / chickpea / bacon
+
+- **Fajitas**
+    - Chicken +
+    - Peppers +
+    - Onions + 
+    - Seasoning
+
+- **Veg Chilli**
+    - frozen onion
+    - frozen peppers
+    - tomto cans
+- 
+
+
+
+
+## New ideas
 - [Frioles](https://www.wahaca.co.uk/frijoles-recipe/)
 - Sag Panear
   - https://www.bbcgoodfood.com/recipes/saag-paneer
@@ -30,3 +57,8 @@
 - https://www.nhs.uk/healthier-families/recipes/dinner/
 - https://www.nhs.uk/healthier-families/recipes/dinner/#weekly-plan
 - https://foodwishes.blogspot.com/
+
+
+
+
+
